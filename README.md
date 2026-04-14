@@ -1,5 +1,5 @@
 # 🌌  About Me:
-<br>- 🌙 Aspiring software developer <br>- 🔭 I’m ea graduate of UMASS Global/Springboard's Software Engineering bootcamp!  <br>- 🌟 The course covers HTML, CSS, JavaScript, React, and more  <br>- ⚡ Fun fact: I love making art!
+<br>- 🌙 Aspiring software developer <br>- 🔭 I’m a graduate of UMASS Global/Springboard's Software Engineering bootcamp!  <br>- 🌟 The course covers HTML, CSS, JavaScript, React, and more  <br>- ⚡ Fun fact: I love making art!
 
 
 ## 🌐 Socials:
